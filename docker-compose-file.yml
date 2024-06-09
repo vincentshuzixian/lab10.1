@@ -3,4 +3,4 @@
    server:
      image: shuzixian/docker-ci-basic:latest
      ports:
-       - 6666:80
+       - 8080:80
