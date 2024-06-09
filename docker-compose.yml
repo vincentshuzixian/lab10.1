@@ -1,6 +1,6 @@
- version: '3'
- services:
-   server:
-     image: shuzixian/docker-ci-basic:latest
-     ports:
-       - 80:80
+
+services:
+  server:
+    image: shuzixian/docker-ci-basic:latest
+    ports:
+      - 80:80
